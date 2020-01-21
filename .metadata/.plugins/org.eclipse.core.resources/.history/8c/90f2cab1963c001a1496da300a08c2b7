@@ -1,0 +1,18 @@
+package test;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//outputStream -write character to file
+		//inputStream -read character from file
+		/*
+		 * Write a text file using java
+		 * 1. Use outputStream -selects the directory in which our text file will be saved
+		 * 2. User outputStream to create a file and chain it to previous step
+		 * 3. 
+		 */
+	}
+
+}

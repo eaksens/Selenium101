@@ -1,0 +1,10 @@
+package abstractClass;
+
+public class Test {
+	public static void main(String[] arg) {
+		//with the help of child class, we will be able to call the concrete method of the abstract class
+		ChildFirefox c = new ChildFirefox();
+		c.captureScreenshot();
+	}
+
+}

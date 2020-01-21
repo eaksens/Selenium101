@@ -1,0 +1,10 @@
+package test;
+
+import java.io.FileInputStream;
+import java.util.Properties;
+
+public class testCase1 {
+	Properties prop = new Properties();
+	FileInputStream files = new FileInputStream("C:\\Users\\mai_s\\Documents\\Selenium\\Java-PropertiesExcel\\src\\config\\object.properties");
+
+}
